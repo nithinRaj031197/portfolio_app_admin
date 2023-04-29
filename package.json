@@ -10,8 +10,22 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@hookform/resolvers": "^3.1.0",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.12.1",
+    "@mui/styles": "^5.12.0",
+    "apollo-boost": "^0.4.9",
+    "graphql": "^15.8.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-form-hooks": "^1.1.5",
+    "react-hook-form": "^7.43.9",
+    "react-particles-js": "^3.6.0",
+    "react-router-dom": "^6.10.0",
+    "yup": "^1.1.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
